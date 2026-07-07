@@ -1,0 +1,18 @@
+# Ortam degiskenleri (API key burada!)
+.env
+
+# Sanal ortam
+venv/
+
+# ChromaDB verileri
+chroma_db/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Test dosyasi
+test_setup.py
+
+# Mac
+.DS_Store
